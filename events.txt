@@ -1,0 +1,1974 @@
+still motion at frame 511
+still motion at frame 510
+still motion at frame 509
+still motion at frame 508
+still motion at frame 507
+still motion at frame 506
+still motion at frame 505
+still motion at frame 504
+still motion at frame 503
+still motion at frame 502
+still motion at frame 1243
+still motion at frame 1242
+still motion at frame 1241
+still motion at frame 1240
+still motion at frame 1239
+still motion at frame 1238
+still motion at frame 1237
+still motion at frame 1236
+still motion at frame 1235
+still motion at frame 1234
+still motion at frame 1263
+still motion at frame 1262
+still motion at frame 1261
+still motion at frame 1260
+still motion at frame 1259
+still motion at frame 1258
+still motion at frame 1257
+still motion at frame 1256
+still motion at frame 1255
+still motion at frame 1254
+still motion at frame 1274
+still motion at frame 1273
+still motion at frame 1272
+still motion at frame 1271
+still motion at frame 1270
+still motion at frame 1269
+still motion at frame 1268
+still motion at frame 1267
+still motion at frame 1266
+still motion at frame 1265
+still motion at frame 1437
+still motion at frame 1436
+still motion at frame 1435
+still motion at frame 1434
+still motion at frame 1433
+still motion at frame 1432
+still motion at frame 1431
+still motion at frame 1430
+still motion at frame 1429
+still motion at frame 1428
+still motion at frame 1476
+still motion at frame 1475
+still motion at frame 1474
+still motion at frame 1473
+still motion at frame 1472
+still motion at frame 1471
+still motion at frame 1470
+still motion at frame 1469
+still motion at frame 1468
+still motion at frame 1467
+still motion at frame 1502
+still motion at frame 1501
+still motion at frame 1500
+still motion at frame 1499
+still motion at frame 1498
+still motion at frame 1497
+still motion at frame 1496
+still motion at frame 1495
+still motion at frame 1494
+still motion at frame 1493
+
+welder off at frame 60
+welder off at frame 61
+welder off at frame 62
+welder off at frame 63
+welder off at frame 64
+welder off at frame 65
+welder off at frame 66
+welder off at frame 67
+welder off at frame 68
+welder off at frame 69
+welder off at frame 70
+welder off at frame 218
+welder off at frame 219
+welder off at frame 220
+welder off at frame 221
+welder off at frame 222
+welder off at frame 223
+welder off at frame 224
+welder off at frame 225
+welder off at frame 226
+welder off at frame 227
+welder off at frame 228
+welder off at frame 463
+welder off at frame 506
+welder off at frame 507
+welder off at frame 508
+welder off at frame 509
+welder off at frame 510
+welder off at frame 511
+welder off at frame 512
+welder off at frame 513
+welder off at frame 514
+welder off at frame 515
+welder off at frame 516
+welder off at frame 517
+welder off at frame 1238
+welder off at frame 1239
+welder off at frame 1240
+welder off at frame 1241
+welder off at frame 1242
+welder off at frame 1243
+welder off at frame 1244
+welder off at frame 1245
+welder off at frame 1246
+welder off at frame 1247
+welder off at frame 1248
+welder off at frame 1249
+welder off at frame 1250
+welder off at frame 1251
+welder off at frame 1252
+welder off at frame 1253
+welder off at frame 1254
+welder off at frame 1255
+welder off at frame 1256
+welder off at frame 1257
+welder off at frame 1258
+welder off at frame 1259
+welder off at frame 1260
+welder off at frame 1261
+welder off at frame 1262
+welder off at frame 1263
+welder off at frame 1264
+welder off at frame 1265
+welder off at frame 1266
+welder off at frame 1267
+welder off at frame 1268
+welder off at frame 1269
+welder off at frame 1270
+welder off at frame 1271
+welder off at frame 1272
+welder off at frame 1273
+welder off at frame 1274
+welder off at frame 1275
+welder off at frame 1276
+welder off at frame 1277
+welder off at frame 1278
+
+skipped frames at frame 5
+skipped frames at frame 15
+skipped frames at frame 24
+skipped frames at frame 34
+skipped frames at frame 43
+skipped frames at frame 53
+skipped frames at frame 72
+skipped frames at frame 81
+skipped frames at frame 91
+skipped frames at frame 100
+skipped frames at frame 110
+skipped frames at frame 119
+skipped frames at frame 129
+skipped frames at frame 138
+skipped frames at frame 145
+skipped frames at frame 146
+skipped frames at frame 148
+skipped frames at frame 157
+skipped frames at frame 167
+skipped frames at frame 174
+skipped frames at frame 176
+skipped frames at frame 181
+skipped frames at frame 182
+skipped frames at frame 185
+skipped frames at frame 188
+skipped frames at frame 195
+skipped frames at frame 204
+skipped frames at frame 209
+skipped frames at frame 214
+skipped frames at frame 233
+skipped frames at frame 242
+skipped frames at frame 247
+skipped frames at frame 265
+skipped frames at frame 283
+skipped frames at frame 301
+skipped frames at frame 319
+skipped frames at frame 332
+skipped frames at frame 350
+skipped frames at frame 368
+skipped frames at frame 386
+skipped frames at frame 404
+skipped frames at frame 417
+skipped frames at frame 435
+skipped frames at frame 453
+skipped frames at frame 471
+skipped frames at frame 489
+skipped frames at frame 539
+skipped frames at frame 557
+skipped frames at frame 588
+skipped frames at frame 606
+skipped frames at frame 624
+skipped frames at frame 642
+skipped frames at frame 655
+skipped frames at frame 673
+skipped frames at frame 703
+skipped frames at frame 719
+skipped frames at frame 737
+skipped frames at frame 749
+skipped frames at frame 767
+skipped frames at frame 785
+skipped frames at frame 803
+skipped frames at frame 816
+skipped frames at frame 834
+skipped frames at frame 852
+skipped frames at frame 881
+skipped frames at frame 899
+skipped frames at frame 917
+skipped frames at frame 935
+skipped frames at frame 953
+skipped frames at frame 966
+skipped frames at frame 984
+skipped frames at frame 1020
+skipped frames at frame 1038
+skipped frames at frame 1069
+skipped frames at frame 1087
+skipped frames at frame 1105
+skipped frames at frame 1113
+skipped frames at frame 1131
+skipped frames at frame 1149
+skipped frames at frame 1167
+skipped frames at frame 1180
+skipped frames at frame 1198
+skipped frames at frame 1216
+skipped frames at frame 1234
+skipped frames at frame 1239
+skipped frames at frame 1252
+skipped frames at frame 1265
+skipped frames at frame 1293
+skipped frames at frame 1305
+skipped frames at frame 1323
+skipped frames at frame 1341
+skipped frames at frame 1372
+skipped frames at frame 1390
+skipped frames at frame 1408
+skipped frames at frame 1426
+skipped frames at frame 1441
+skipped frames at frame 1442
+skipped frames at frame 1447
+skipped frames at frame 1465
+skipped frames at frame 1475
+skipped frames at frame 1483
+skipped frames at frame 1501
+skipped frames at frame 1532
+skipped frames at frame 1546
+skipped frames at frame 1562
+skipped frames at frame 1575
+skipped frames at frame 1593
+skipped frames at frame 1611
+skipped frames at frame 1629
+skipped frames at frame 1659
+skipped frames at frame 1672
+skipped frames at frame 1690
+skipped frames at frame 1708
+
+weld path inclination at frame 1: 0
+weld path inclination at frame 2: 0
+weld path inclination at frame 3: 0
+weld path inclination at frame 4: 0
+weld path inclination at frame 5: 0
+weld path inclination at frame 6: 0
+weld path inclination at frame 7: 0
+weld path inclination at frame 8: 0
+weld path inclination at frame 9: 0
+weld path inclination at frame 10: 0
+weld path inclination at frame 11: 0
+weld path inclination at frame 12: 0
+weld path inclination at frame 13: 0
+weld path inclination at frame 14: 0
+weld path inclination at frame 15: 0
+weld path inclination at frame 16: 0
+weld path inclination at frame 17: 0
+weld path inclination at frame 18: 0
+weld path inclination at frame 19: 0
+weld path inclination at frame 20: 0
+weld path inclination at frame 21: 0
+weld path inclination at frame 22: 0
+weld path inclination at frame 23: 0
+weld path inclination at frame 24: 0
+weld path inclination at frame 25: 0
+weld path inclination at frame 26: 0
+weld path inclination at frame 27: 0
+weld path inclination at frame 28: 0
+weld path inclination at frame 29: 0
+weld path inclination at frame 30: 0
+weld path inclination at frame 31: 0
+weld path inclination at frame 32: 0
+weld path inclination at frame 33: 0
+weld path inclination at frame 34: 0
+weld path inclination at frame 35: 0
+weld path inclination at frame 36: 0
+weld path inclination at frame 37: 0
+weld path inclination at frame 38: 0
+weld path inclination at frame 39: 0
+weld path inclination at frame 40: 0
+weld path inclination at frame 41: 0
+weld path inclination at frame 42: 0
+weld path inclination at frame 43: 0
+weld path inclination at frame 44: 0
+weld path inclination at frame 45: 0
+weld path inclination at frame 46: 0
+weld path inclination at frame 47: 0
+weld path inclination at frame 48: 0
+weld path inclination at frame 49: 0
+weld path inclination at frame 50: 0
+weld path inclination at frame 51: 0
+weld path inclination at frame 52: 0
+weld path inclination at frame 53: 0
+weld path inclination at frame 54: 0
+weld path inclination at frame 55: 0
+weld path inclination at frame 56: 0
+weld path inclination at frame 57: 0
+weld path inclination at frame 58: 0
+weld path inclination at frame 59: 0
+weld path inclination at frame 60: 0
+weld path inclination at frame 61: 0
+weld path inclination at frame 62: 0
+weld path inclination at frame 63: 0
+weld path inclination at frame 64: 0
+weld path inclination at frame 65: 0
+weld path inclination at frame 66: 0
+weld path inclination at frame 67: 0
+weld path inclination at frame 68: 0
+weld path inclination at frame 69: 0
+weld path inclination at frame 70: 0
+weld path inclination at frame 71: 0
+weld path inclination at frame 72: 0
+weld path inclination at frame 73: 0
+weld path inclination at frame 74: 0
+weld path inclination at frame 75: 0
+weld path inclination at frame 76: 0
+weld path inclination at frame 77: 0
+weld path inclination at frame 78: 0
+weld path inclination at frame 79: 0
+weld path inclination at frame 80: 0
+weld path inclination at frame 81: 0
+weld path inclination at frame 82: 0
+weld path inclination at frame 83: 0
+weld path inclination at frame 84: 0
+weld path inclination at frame 85: 0
+weld path inclination at frame 86: 0
+weld path inclination at frame 87: 0
+weld path inclination at frame 88: 0
+weld path inclination at frame 89: 0
+weld path inclination at frame 90: 0
+weld path inclination at frame 91: 0
+weld path inclination at frame 92: 0
+weld path inclination at frame 93: 0
+weld path inclination at frame 94: 0
+weld path inclination at frame 95: 0
+weld path inclination at frame 96: 0
+weld path inclination at frame 97: 0
+weld path inclination at frame 98: 0
+weld path inclination at frame 99: 0
+weld path inclination at frame 100: 0
+weld path inclination at frame 101: 0
+weld path inclination at frame 102: 0
+weld path inclination at frame 103: 0
+weld path inclination at frame 104: 0
+weld path inclination at frame 105: 0
+weld path inclination at frame 106: 0
+weld path inclination at frame 107: 0
+weld path inclination at frame 108: 0
+weld path inclination at frame 109: 0
+weld path inclination at frame 110: 0
+weld path inclination at frame 111: 0
+weld path inclination at frame 112: 0
+weld path inclination at frame 113: 0
+weld path inclination at frame 114: 0
+weld path inclination at frame 115: 0
+weld path inclination at frame 116: 0
+weld path inclination at frame 117: 0
+weld path inclination at frame 118: 0
+weld path inclination at frame 119: 0
+weld path inclination at frame 120: 0
+weld path inclination at frame 121: 0
+weld path inclination at frame 122: 0
+weld path inclination at frame 123: 0
+weld path inclination at frame 124: 0
+weld path inclination at frame 125: 0
+weld path inclination at frame 126: 0
+weld path inclination at frame 127: 0
+weld path inclination at frame 128: 0
+weld path inclination at frame 129: 0
+weld path inclination at frame 130: 0
+weld path inclination at frame 131: 0
+weld path inclination at frame 132: 0
+weld path inclination at frame 133: 0
+weld path inclination at frame 134: 0
+weld path inclination at frame 135: 0
+weld path inclination at frame 136: 0
+weld path inclination at frame 137: 0
+weld path inclination at frame 138: 0
+weld path inclination at frame 139: 0
+weld path inclination at frame 140: 0
+weld path inclination at frame 141: 0
+weld path inclination at frame 142: 0
+weld path inclination at frame 143: 0
+weld path inclination at frame 144: 0
+weld path inclination at frame 145: 0
+weld path inclination at frame 146: 0
+weld path inclination at frame 147: 0
+weld path inclination at frame 148: 0
+weld path inclination at frame 149: 0
+weld path inclination at frame 150: 0
+weld path inclination at frame 151: 0
+weld path inclination at frame 152: 0
+weld path inclination at frame 153: 0
+weld path inclination at frame 154: 0
+weld path inclination at frame 155: 0
+weld path inclination at frame 156: 0
+weld path inclination at frame 157: 0
+weld path inclination at frame 158: 0
+weld path inclination at frame 159: 0
+weld path inclination at frame 160: 0
+weld path inclination at frame 161: 0
+weld path inclination at frame 162: 0
+weld path inclination at frame 163: 0
+weld path inclination at frame 164: 0
+weld path inclination at frame 165: 0
+weld path inclination at frame 166: 0
+weld path inclination at frame 167: 0
+weld path inclination at frame 168: 0
+weld path inclination at frame 169: 0
+weld path inclination at frame 170: 0
+weld path inclination at frame 171: 0
+weld path inclination at frame 172: 0
+weld path inclination at frame 173: 0
+weld path inclination at frame 174: 0
+weld path inclination at frame 175: 0
+weld path inclination at frame 176: 0
+weld path inclination at frame 177: 0
+weld path inclination at frame 178: 0
+weld path inclination at frame 179: 0
+weld path inclination at frame 180: 0
+weld path inclination at frame 181: 0
+weld path inclination at frame 182: 0
+weld path inclination at frame 183: 0
+weld path inclination at frame 184: 0
+weld path inclination at frame 185: 0
+weld path inclination at frame 186: 0
+weld path inclination at frame 187: 0
+weld path inclination at frame 188: 0
+weld path inclination at frame 189: 0
+weld path inclination at frame 190: 0
+weld path inclination at frame 191: 0
+weld path inclination at frame 192: 0
+weld path inclination at frame 193: 0
+weld path inclination at frame 194: 0
+weld path inclination at frame 195: 0
+weld path inclination at frame 196: 0
+weld path inclination at frame 197: 0
+weld path inclination at frame 198: 0
+weld path inclination at frame 199: 0
+weld path inclination at frame 200: 0
+weld path inclination at frame 201: 0
+weld path inclination at frame 202: 0
+weld path inclination at frame 203: 0
+weld path inclination at frame 204: 0
+weld path inclination at frame 205: 0
+weld path inclination at frame 206: 0
+weld path inclination at frame 207: 0
+weld path inclination at frame 208: 0
+weld path inclination at frame 209: 0
+weld path inclination at frame 210: 0
+weld path inclination at frame 211: 0
+weld path inclination at frame 212: 0
+weld path inclination at frame 213: 0
+weld path inclination at frame 214: 0
+weld path inclination at frame 215: 0
+weld path inclination at frame 216: 0
+weld path inclination at frame 217: 0
+weld path inclination at frame 218: 0
+weld path inclination at frame 219: 0
+weld path inclination at frame 220: 0
+weld path inclination at frame 221: 0
+weld path inclination at frame 222: 0
+weld path inclination at frame 223: 0
+weld path inclination at frame 224: 0
+weld path inclination at frame 225: 0
+weld path inclination at frame 226: 0
+weld path inclination at frame 227: 0
+weld path inclination at frame 228: 0
+weld path inclination at frame 229: 0
+weld path inclination at frame 230: 0
+weld path inclination at frame 231: 0
+weld path inclination at frame 232: 0
+weld path inclination at frame 233: 0
+weld path inclination at frame 234: 0
+weld path inclination at frame 235: 0
+weld path inclination at frame 236: 0
+weld path inclination at frame 237: 0
+weld path inclination at frame 238: 0
+weld path inclination at frame 239: 0
+weld path inclination at frame 240: 0
+weld path inclination at frame 241: 0
+weld path inclination at frame 242: 0
+weld path inclination at frame 243: 0
+weld path inclination at frame 244: 0
+weld path inclination at frame 245: 0
+weld path inclination at frame 246: 0
+weld path inclination at frame 247: 0
+weld path inclination at frame 248: 3.9329
+weld path inclination at frame 249: 3.9329
+weld path inclination at frame 250: 3.9329
+weld path inclination at frame 251: 3.9329
+weld path inclination at frame 252: 3.9329
+weld path inclination at frame 253: 3.9329
+weld path inclination at frame 254: 3.9329
+weld path inclination at frame 255: 3.9329
+weld path inclination at frame 256: 3.9329
+weld path inclination at frame 257: 3.9329
+weld path inclination at frame 258: 3.9329
+weld path inclination at frame 259: 3.9329
+weld path inclination at frame 260: 3.9329
+weld path inclination at frame 261: 3.9329
+weld path inclination at frame 262: 3.9329
+weld path inclination at frame 263: 3.9329
+weld path inclination at frame 264: 3.9329
+weld path inclination at frame 265: 3.9329
+weld path inclination at frame 266: 3.9329
+weld path inclination at frame 267: 3.9329
+weld path inclination at frame 268: 3.9329
+weld path inclination at frame 269: 3.9329
+weld path inclination at frame 270: 3.9329
+weld path inclination at frame 271: 3.9329
+weld path inclination at frame 272: 3.9329
+weld path inclination at frame 273: 3.9329
+weld path inclination at frame 274: 3.9329
+weld path inclination at frame 275: 3.9329
+weld path inclination at frame 276: 3.9329
+weld path inclination at frame 277: 3.9329
+weld path inclination at frame 278: 3.9329
+weld path inclination at frame 279: 3.9329
+weld path inclination at frame 280: 3.9329
+weld path inclination at frame 281: 3.9329
+weld path inclination at frame 282: 3.9329
+weld path inclination at frame 283: 3.9329
+weld path inclination at frame 284: 3.9329
+weld path inclination at frame 285: 3.9329
+weld path inclination at frame 286: 3.9329
+weld path inclination at frame 287: 3.9329
+weld path inclination at frame 288: 3.9329
+weld path inclination at frame 289: 3.9329
+weld path inclination at frame 290: 3.9329
+weld path inclination at frame 291: 3.9329
+weld path inclination at frame 292: 3.9329
+weld path inclination at frame 293: 3.9329
+weld path inclination at frame 294: 3.9329
+weld path inclination at frame 295: 3.9329
+weld path inclination at frame 296: 3.9329
+weld path inclination at frame 297: 3.9329
+weld path inclination at frame 298: 3.9329
+weld path inclination at frame 299: 3.9329
+weld path inclination at frame 300: 3.9329
+weld path inclination at frame 301: 3.9329
+weld path inclination at frame 302: 3.9329
+weld path inclination at frame 303: 3.9329
+weld path inclination at frame 304: 3.9329
+weld path inclination at frame 305: 3.9329
+weld path inclination at frame 306: 3.9329
+weld path inclination at frame 307: 3.9329
+weld path inclination at frame 308: 3.9329
+weld path inclination at frame 309: 3.9329
+weld path inclination at frame 310: 3.9329
+weld path inclination at frame 311: 3.9329
+weld path inclination at frame 312: 3.9329
+weld path inclination at frame 313: 3.9329
+weld path inclination at frame 314: 3.9329
+weld path inclination at frame 315: 3.9329
+weld path inclination at frame 316: 3.9329
+weld path inclination at frame 317: 3.9329
+weld path inclination at frame 318: 3.9329
+weld path inclination at frame 319: 3.9329
+weld path inclination at frame 320: 3.9329
+weld path inclination at frame 321: 3.9329
+weld path inclination at frame 322: 3.9329
+weld path inclination at frame 323: 3.9329
+weld path inclination at frame 324: 3.9329
+weld path inclination at frame 325: 3.9329
+weld path inclination at frame 326: 3.9329
+weld path inclination at frame 327: 3.9329
+weld path inclination at frame 328: 3.9329
+weld path inclination at frame 329: 3.9329
+weld path inclination at frame 330: 3.9329
+weld path inclination at frame 331: 3.9329
+weld path inclination at frame 332: 3.9329
+weld path inclination at frame 333: 3.9329
+weld path inclination at frame 334: 3.9329
+weld path inclination at frame 335: 3.9329
+weld path inclination at frame 336: 3.9329
+weld path inclination at frame 337: 3.9329
+weld path inclination at frame 338: 3.9329
+weld path inclination at frame 339: 3.9329
+weld path inclination at frame 340: 3.9329
+weld path inclination at frame 341: 3.9329
+weld path inclination at frame 342: 3.9329
+weld path inclination at frame 343: 3.9329
+weld path inclination at frame 344: 3.9329
+weld path inclination at frame 345: 3.9329
+weld path inclination at frame 346: 3.9329
+weld path inclination at frame 347: 3.9329
+weld path inclination at frame 348: 3.9329
+weld path inclination at frame 349: 3.9329
+weld path inclination at frame 350: 3.9329
+weld path inclination at frame 351: 3.9329
+weld path inclination at frame 352: 3.9329
+weld path inclination at frame 353: 3.9329
+weld path inclination at frame 354: 3.9329
+weld path inclination at frame 355: 3.9329
+weld path inclination at frame 356: 3.9329
+weld path inclination at frame 357: 3.9329
+weld path inclination at frame 358: 3.9329
+weld path inclination at frame 359: 3.9329
+weld path inclination at frame 360: 3.9329
+weld path inclination at frame 361: 3.9329
+weld path inclination at frame 362: 3.9329
+weld path inclination at frame 363: 3.9329
+weld path inclination at frame 364: 3.9329
+weld path inclination at frame 365: 3.9329
+weld path inclination at frame 366: 3.9329
+weld path inclination at frame 367: 3.9329
+weld path inclination at frame 368: 3.9329
+weld path inclination at frame 369: 3.9329
+weld path inclination at frame 370: 3.9329
+weld path inclination at frame 371: 3.9329
+weld path inclination at frame 372: 3.9329
+weld path inclination at frame 373: 3.9329
+weld path inclination at frame 374: 3.9329
+weld path inclination at frame 375: 3.9329
+weld path inclination at frame 376: 3.9329
+weld path inclination at frame 377: 3.9329
+weld path inclination at frame 378: 3.9329
+weld path inclination at frame 379: 3.9329
+weld path inclination at frame 380: 3.9329
+weld path inclination at frame 381: 3.9329
+weld path inclination at frame 382: 3.9329
+weld path inclination at frame 383: 3.9329
+weld path inclination at frame 384: 3.9329
+weld path inclination at frame 385: 3.9329
+weld path inclination at frame 386: 3.9329
+weld path inclination at frame 387: 3.9329
+weld path inclination at frame 388: 3.9329
+weld path inclination at frame 389: 3.9329
+weld path inclination at frame 390: 3.9329
+weld path inclination at frame 391: 3.9329
+weld path inclination at frame 392: 3.9329
+weld path inclination at frame 393: 3.9329
+weld path inclination at frame 394: 3.9329
+weld path inclination at frame 395: 3.9329
+weld path inclination at frame 396: 3.9329
+weld path inclination at frame 397: 3.9329
+weld path inclination at frame 398: 3.9329
+weld path inclination at frame 399: 3.9329
+weld path inclination at frame 400: 3.9329
+weld path inclination at frame 401: 3.9329
+weld path inclination at frame 402: 3.9329
+weld path inclination at frame 403: 3.9329
+weld path inclination at frame 404: 3.9329
+weld path inclination at frame 405: 3.9329
+weld path inclination at frame 406: 3.9329
+weld path inclination at frame 407: 3.9329
+weld path inclination at frame 408: 3.9329
+weld path inclination at frame 409: 3.9329
+weld path inclination at frame 410: 3.9329
+weld path inclination at frame 411: 3.9329
+weld path inclination at frame 412: 3.9329
+weld path inclination at frame 413: 3.9329
+weld path inclination at frame 414: 3.9329
+weld path inclination at frame 415: 3.9329
+weld path inclination at frame 416: 3.9329
+weld path inclination at frame 417: 3.9329
+weld path inclination at frame 418: 3.9329
+weld path inclination at frame 419: 3.9329
+weld path inclination at frame 420: 3.9329
+weld path inclination at frame 421: 3.9329
+weld path inclination at frame 422: 3.9329
+weld path inclination at frame 423: 3.9329
+weld path inclination at frame 424: 3.9329
+weld path inclination at frame 425: 3.9329
+weld path inclination at frame 426: 3.9329
+weld path inclination at frame 427: 3.9329
+weld path inclination at frame 428: 3.9329
+weld path inclination at frame 429: 3.9329
+weld path inclination at frame 430: 3.9329
+weld path inclination at frame 431: 3.9329
+weld path inclination at frame 432: 3.9329
+weld path inclination at frame 433: 3.9329
+weld path inclination at frame 434: 3.9329
+weld path inclination at frame 435: 3.9329
+weld path inclination at frame 436: 3.9329
+weld path inclination at frame 437: 3.9329
+weld path inclination at frame 438: 3.9329
+weld path inclination at frame 439: 3.9329
+weld path inclination at frame 440: 3.9329
+weld path inclination at frame 441: 3.9329
+weld path inclination at frame 442: 3.9329
+weld path inclination at frame 443: 3.9329
+weld path inclination at frame 444: 3.9329
+weld path inclination at frame 445: 3.9329
+weld path inclination at frame 446: 3.9329
+weld path inclination at frame 447: 3.9329
+weld path inclination at frame 448: 3.9329
+weld path inclination at frame 449: 3.9329
+weld path inclination at frame 450: 3.9329
+weld path inclination at frame 451: 3.9329
+weld path inclination at frame 452: 3.9329
+weld path inclination at frame 453: 3.9329
+weld path inclination at frame 454: 3.9329
+weld path inclination at frame 455: 3.9329
+weld path inclination at frame 456: 3.9329
+weld path inclination at frame 457: 3.9329
+weld path inclination at frame 458: 3.9329
+weld path inclination at frame 459: 3.9329
+weld path inclination at frame 460: 3.9329
+weld path inclination at frame 461: 3.9329
+weld path inclination at frame 462: 3.9329
+weld path inclination at frame 463: 3.9329
+weld path inclination at frame 464: 3.9329
+weld path inclination at frame 465: 3.9329
+weld path inclination at frame 466: 3.9329
+weld path inclination at frame 467: 3.9329
+weld path inclination at frame 468: 3.9329
+weld path inclination at frame 469: 3.9329
+weld path inclination at frame 470: 3.9329
+weld path inclination at frame 471: 3.9329
+weld path inclination at frame 472: 3.9329
+weld path inclination at frame 473: 3.9329
+weld path inclination at frame 474: 3.9329
+weld path inclination at frame 475: 3.9329
+weld path inclination at frame 476: 3.9329
+weld path inclination at frame 477: 3.9329
+weld path inclination at frame 478: 3.9329
+weld path inclination at frame 479: 3.9329
+weld path inclination at frame 480: 3.9329
+weld path inclination at frame 481: 3.9329
+weld path inclination at frame 482: 3.9329
+weld path inclination at frame 483: 3.9329
+weld path inclination at frame 484: 3.9329
+weld path inclination at frame 485: 3.9329
+weld path inclination at frame 486: 3.9329
+weld path inclination at frame 487: 3.9329
+weld path inclination at frame 488: 3.9329
+weld path inclination at frame 489: 3.9329
+weld path inclination at frame 490: 3.9329
+weld path inclination at frame 491: 3.9329
+weld path inclination at frame 492: 3.9329
+weld path inclination at frame 493: 3.9329
+weld path inclination at frame 494: 3.9329
+weld path inclination at frame 495: 3.9329
+weld path inclination at frame 496: 3.9329
+weld path inclination at frame 497: 3.9329
+weld path inclination at frame 498: 3.9329
+weld path inclination at frame 499: 3.9329
+weld path inclination at frame 500: 3.9329
+weld path inclination at frame 501: 3.9329
+weld path inclination at frame 502: 3.9329
+weld path inclination at frame 503: 3.9329
+weld path inclination at frame 504: 3.9329
+weld path inclination at frame 505: 3.9329
+weld path inclination at frame 506: 3.9329
+weld path inclination at frame 507: 3.9329
+weld path inclination at frame 508: 3.9329
+weld path inclination at frame 509: 3.9329
+weld path inclination at frame 510: 3.9329
+weld path inclination at frame 511: 3.9329
+weld path inclination at frame 512: 3.9329
+weld path inclination at frame 513: 3.9329
+weld path inclination at frame 514: 3.9329
+weld path inclination at frame 515: 3.9329
+weld path inclination at frame 516: 3.9329
+weld path inclination at frame 517: 3.9329
+weld path inclination at frame 518: 3.9329
+weld path inclination at frame 519: 0
+weld path inclination at frame 520: 0
+weld path inclination at frame 521: 0
+weld path inclination at frame 522: 0
+weld path inclination at frame 523: 0
+weld path inclination at frame 524: 0
+weld path inclination at frame 525: 0
+weld path inclination at frame 526: 0
+weld path inclination at frame 527: 0
+weld path inclination at frame 528: 0
+weld path inclination at frame 529: 0
+weld path inclination at frame 530: 0
+weld path inclination at frame 531: 0
+weld path inclination at frame 532: 0
+weld path inclination at frame 533: 0
+weld path inclination at frame 534: 0
+weld path inclination at frame 535: 0
+weld path inclination at frame 536: 0
+weld path inclination at frame 537: 0
+weld path inclination at frame 538: 0
+weld path inclination at frame 539: 0
+weld path inclination at frame 540: 0
+weld path inclination at frame 541: 0
+weld path inclination at frame 542: 0
+weld path inclination at frame 543: 0
+weld path inclination at frame 544: 0
+weld path inclination at frame 545: 0
+weld path inclination at frame 546: 0
+weld path inclination at frame 547: 0
+weld path inclination at frame 548: 0
+weld path inclination at frame 549: 0
+weld path inclination at frame 550: 0
+weld path inclination at frame 551: 0
+weld path inclination at frame 552: 0
+weld path inclination at frame 553: 0
+weld path inclination at frame 554: 0
+weld path inclination at frame 555: 0
+weld path inclination at frame 556: 0
+weld path inclination at frame 557: 0
+weld path inclination at frame 558: 0
+weld path inclination at frame 559: 0
+weld path inclination at frame 560: 0
+weld path inclination at frame 561: 0
+weld path inclination at frame 562: 0
+weld path inclination at frame 563: 0
+weld path inclination at frame 564: 0
+weld path inclination at frame 565: 0
+weld path inclination at frame 566: 0
+weld path inclination at frame 567: 0
+weld path inclination at frame 568: 0
+weld path inclination at frame 569: 0
+weld path inclination at frame 570: 0
+weld path inclination at frame 571: 0
+weld path inclination at frame 572: 0
+weld path inclination at frame 573: 0
+weld path inclination at frame 574: 0
+weld path inclination at frame 575: 0
+weld path inclination at frame 576: 0
+weld path inclination at frame 577: 0
+weld path inclination at frame 578: 0
+weld path inclination at frame 579: 0
+weld path inclination at frame 580: 0
+weld path inclination at frame 581: 0
+weld path inclination at frame 582: 0
+weld path inclination at frame 583: 0
+weld path inclination at frame 584: 0
+weld path inclination at frame 585: 0
+weld path inclination at frame 586: 0
+weld path inclination at frame 587: 0
+weld path inclination at frame 588: 0
+weld path inclination at frame 589: 0
+weld path inclination at frame 590: 0
+weld path inclination at frame 591: 0
+weld path inclination at frame 592: 0
+weld path inclination at frame 593: 0
+weld path inclination at frame 594: 0
+weld path inclination at frame 595: 0
+weld path inclination at frame 596: 0
+weld path inclination at frame 597: 0
+weld path inclination at frame 598: 0
+weld path inclination at frame 599: 0
+weld path inclination at frame 600: 0
+weld path inclination at frame 601: 0
+weld path inclination at frame 602: 0
+weld path inclination at frame 603: 0
+weld path inclination at frame 604: 0
+weld path inclination at frame 605: 0
+weld path inclination at frame 606: 0
+weld path inclination at frame 607: 0
+weld path inclination at frame 608: 0
+weld path inclination at frame 609: 0
+weld path inclination at frame 610: 0
+weld path inclination at frame 611: 0
+weld path inclination at frame 612: 0
+weld path inclination at frame 613: 0
+weld path inclination at frame 614: 0
+weld path inclination at frame 615: 0
+weld path inclination at frame 616: 0
+weld path inclination at frame 617: 0
+weld path inclination at frame 618: 0
+weld path inclination at frame 619: 0
+weld path inclination at frame 620: 0
+weld path inclination at frame 621: 0
+weld path inclination at frame 622: 0
+weld path inclination at frame 623: 0
+weld path inclination at frame 624: 0
+weld path inclination at frame 625: 0
+weld path inclination at frame 626: 0
+weld path inclination at frame 627: 0
+weld path inclination at frame 628: 0
+weld path inclination at frame 629: 0
+weld path inclination at frame 630: 0
+weld path inclination at frame 631: 0
+weld path inclination at frame 632: 0
+weld path inclination at frame 633: 0
+weld path inclination at frame 634: 0
+weld path inclination at frame 635: 0
+weld path inclination at frame 636: 0
+weld path inclination at frame 637: 0
+weld path inclination at frame 638: 0
+weld path inclination at frame 639: 0
+weld path inclination at frame 640: 0
+weld path inclination at frame 641: 0
+weld path inclination at frame 642: 0
+weld path inclination at frame 643: 0
+weld path inclination at frame 644: 0
+weld path inclination at frame 645: 0
+weld path inclination at frame 646: 0
+weld path inclination at frame 647: 0
+weld path inclination at frame 648: 0
+weld path inclination at frame 649: 0
+weld path inclination at frame 650: 0
+weld path inclination at frame 651: 0
+weld path inclination at frame 652: 0
+weld path inclination at frame 653: 0
+weld path inclination at frame 654: 0
+weld path inclination at frame 655: 0
+weld path inclination at frame 656: 0
+weld path inclination at frame 657: 0
+weld path inclination at frame 658: 0
+weld path inclination at frame 659: 0
+weld path inclination at frame 660: 0
+weld path inclination at frame 661: 0
+weld path inclination at frame 662: 0
+weld path inclination at frame 663: 0
+weld path inclination at frame 664: 0
+weld path inclination at frame 665: 0
+weld path inclination at frame 666: 0
+weld path inclination at frame 667: 0
+weld path inclination at frame 668: 0
+weld path inclination at frame 669: 0
+weld path inclination at frame 670: 0
+weld path inclination at frame 671: 0
+weld path inclination at frame 672: 0
+weld path inclination at frame 673: 0
+weld path inclination at frame 674: 0
+weld path inclination at frame 675: 0
+weld path inclination at frame 676: 0
+weld path inclination at frame 677: 0
+weld path inclination at frame 678: 0
+weld path inclination at frame 679: 0
+weld path inclination at frame 680: 0
+weld path inclination at frame 681: 0
+weld path inclination at frame 682: 0
+weld path inclination at frame 683: 0
+weld path inclination at frame 684: 0
+weld path inclination at frame 685: 0
+weld path inclination at frame 686: 0
+weld path inclination at frame 687: 0
+weld path inclination at frame 688: 0
+weld path inclination at frame 689: 0
+weld path inclination at frame 690: 0
+weld path inclination at frame 691: 0
+weld path inclination at frame 692: 0
+weld path inclination at frame 693: 0
+weld path inclination at frame 694: 0
+weld path inclination at frame 695: 0
+weld path inclination at frame 696: 0
+weld path inclination at frame 697: 0
+weld path inclination at frame 698: 0
+weld path inclination at frame 699: 0
+weld path inclination at frame 700: 0
+weld path inclination at frame 701: 0
+weld path inclination at frame 702: 0
+weld path inclination at frame 703: 0
+weld path inclination at frame 704: 0
+weld path inclination at frame 705: 0
+weld path inclination at frame 706: 0
+weld path inclination at frame 707: 0
+weld path inclination at frame 708: 0
+weld path inclination at frame 709: 0
+weld path inclination at frame 710: 3.9329
+weld path inclination at frame 711: 3.9329
+weld path inclination at frame 712: 3.9329
+weld path inclination at frame 713: 3.9329
+weld path inclination at frame 714: 3.9329
+weld path inclination at frame 715: 3.9329
+weld path inclination at frame 716: 3.9329
+weld path inclination at frame 717: 3.9329
+weld path inclination at frame 718: 3.9329
+weld path inclination at frame 719: 3.9329
+weld path inclination at frame 720: 3.9329
+weld path inclination at frame 721: 3.9329
+weld path inclination at frame 722: 3.9329
+weld path inclination at frame 723: 3.9329
+weld path inclination at frame 724: 3.9329
+weld path inclination at frame 725: 3.9329
+weld path inclination at frame 726: 3.9329
+weld path inclination at frame 727: 3.9329
+weld path inclination at frame 728: 3.9329
+weld path inclination at frame 729: 3.9329
+weld path inclination at frame 730: 3.9329
+weld path inclination at frame 731: 3.9329
+weld path inclination at frame 732: 3.9329
+weld path inclination at frame 733: 3.9329
+weld path inclination at frame 734: 3.9329
+weld path inclination at frame 735: 3.9329
+weld path inclination at frame 736: 3.9329
+weld path inclination at frame 737: 3.9329
+weld path inclination at frame 738: 3.9329
+weld path inclination at frame 739: 3.9329
+weld path inclination at frame 740: 3.9329
+weld path inclination at frame 741: 3.9329
+weld path inclination at frame 742: 3.9329
+weld path inclination at frame 743: 3.9329
+weld path inclination at frame 744: 3.9329
+weld path inclination at frame 745: 3.9329
+weld path inclination at frame 746: 3.9329
+weld path inclination at frame 747: 3.9329
+weld path inclination at frame 748: 3.9329
+weld path inclination at frame 749: 3.9329
+weld path inclination at frame 750: 3.9329
+weld path inclination at frame 751: 3.9329
+weld path inclination at frame 752: 3.9329
+weld path inclination at frame 753: 3.9329
+weld path inclination at frame 754: 3.9329
+weld path inclination at frame 755: 3.9329
+weld path inclination at frame 756: 3.9329
+weld path inclination at frame 757: 3.9329
+weld path inclination at frame 758: 3.9329
+weld path inclination at frame 759: 3.9329
+weld path inclination at frame 760: 3.9329
+weld path inclination at frame 761: 3.9329
+weld path inclination at frame 762: 3.9329
+weld path inclination at frame 763: 3.9329
+weld path inclination at frame 764: 3.9329
+weld path inclination at frame 765: 3.9329
+weld path inclination at frame 766: 3.9329
+weld path inclination at frame 767: 3.9329
+weld path inclination at frame 768: 3.9329
+weld path inclination at frame 769: 3.9329
+weld path inclination at frame 770: 3.9329
+weld path inclination at frame 771: 3.9329
+weld path inclination at frame 772: 3.9329
+weld path inclination at frame 773: 3.9329
+weld path inclination at frame 774: 3.9329
+weld path inclination at frame 775: 3.9329
+weld path inclination at frame 776: 3.9329
+weld path inclination at frame 777: 3.9329
+weld path inclination at frame 778: 3.9329
+weld path inclination at frame 779: 3.9329
+weld path inclination at frame 780: 3.9329
+weld path inclination at frame 781: 3.9329
+weld path inclination at frame 782: 3.9329
+weld path inclination at frame 783: 3.9329
+weld path inclination at frame 784: 3.9329
+weld path inclination at frame 785: 3.9329
+weld path inclination at frame 786: 3.9329
+weld path inclination at frame 787: 3.9329
+weld path inclination at frame 788: 3.9329
+weld path inclination at frame 789: 3.9329
+weld path inclination at frame 790: 3.9329
+weld path inclination at frame 791: 3.9329
+weld path inclination at frame 792: 3.9329
+weld path inclination at frame 793: 3.9329
+weld path inclination at frame 794: 3.9329
+weld path inclination at frame 795: 3.9329
+weld path inclination at frame 796: 3.9329
+weld path inclination at frame 797: 3.9329
+weld path inclination at frame 798: 3.9329
+weld path inclination at frame 799: 3.9329
+weld path inclination at frame 800: 3.9329
+weld path inclination at frame 801: 3.9329
+weld path inclination at frame 802: 3.9329
+weld path inclination at frame 803: 3.9329
+weld path inclination at frame 804: 3.9329
+weld path inclination at frame 805: 3.9329
+weld path inclination at frame 806: 3.9329
+weld path inclination at frame 807: 3.9329
+weld path inclination at frame 808: 3.9329
+weld path inclination at frame 809: 3.9329
+weld path inclination at frame 810: 3.9329
+weld path inclination at frame 811: 3.9329
+weld path inclination at frame 812: 3.9329
+weld path inclination at frame 813: 3.9329
+weld path inclination at frame 814: 3.9329
+weld path inclination at frame 815: 3.9329
+weld path inclination at frame 816: 3.9329
+weld path inclination at frame 817: 3.9329
+weld path inclination at frame 818: 3.9329
+weld path inclination at frame 819: 3.9329
+weld path inclination at frame 820: 3.9329
+weld path inclination at frame 821: 3.9329
+weld path inclination at frame 822: 3.9329
+weld path inclination at frame 823: 3.9329
+weld path inclination at frame 824: 3.9329
+weld path inclination at frame 825: 3.9329
+weld path inclination at frame 826: 3.9329
+weld path inclination at frame 827: 3.9329
+weld path inclination at frame 828: 3.9329
+weld path inclination at frame 829: 3.9329
+weld path inclination at frame 830: 3.9329
+weld path inclination at frame 831: 3.9329
+weld path inclination at frame 832: 3.9329
+weld path inclination at frame 833: 3.9329
+weld path inclination at frame 834: 3.9329
+weld path inclination at frame 835: 3.9329
+weld path inclination at frame 836: 3.9329
+weld path inclination at frame 837: 3.9329
+weld path inclination at frame 838: 3.9329
+weld path inclination at frame 839: 3.9329
+weld path inclination at frame 840: 3.9329
+weld path inclination at frame 841: 3.9329
+weld path inclination at frame 842: 3.9329
+weld path inclination at frame 843: 3.9329
+weld path inclination at frame 844: 3.9329
+weld path inclination at frame 845: 3.9329
+weld path inclination at frame 846: 3.9329
+weld path inclination at frame 847: 3.9329
+weld path inclination at frame 848: 3.9329
+weld path inclination at frame 849: 3.9329
+weld path inclination at frame 850: 3.9329
+weld path inclination at frame 851: 3.9329
+weld path inclination at frame 852: 3.9329
+weld path inclination at frame 853: 3.9329
+weld path inclination at frame 854: 3.9329
+weld path inclination at frame 855: 3.9329
+weld path inclination at frame 856: 3.9329
+weld path inclination at frame 857: 3.9329
+weld path inclination at frame 858: 3.9329
+weld path inclination at frame 859: 3.9329
+weld path inclination at frame 860: 3.9329
+weld path inclination at frame 861: 3.9329
+weld path inclination at frame 862: 3.9329
+weld path inclination at frame 863: 3.9329
+weld path inclination at frame 864: 3.9329
+weld path inclination at frame 865: 3.9329
+weld path inclination at frame 866: 3.9329
+weld path inclination at frame 867: 3.9329
+weld path inclination at frame 868: 3.9329
+weld path inclination at frame 869: 3.9329
+weld path inclination at frame 870: 3.9329
+weld path inclination at frame 871: 3.9329
+weld path inclination at frame 872: 0
+weld path inclination at frame 873: 0
+weld path inclination at frame 874: 0
+weld path inclination at frame 875: 0
+weld path inclination at frame 876: 0
+weld path inclination at frame 877: 0
+weld path inclination at frame 878: 0
+weld path inclination at frame 879: 0
+weld path inclination at frame 880: 0
+weld path inclination at frame 881: 0
+weld path inclination at frame 882: 0
+weld path inclination at frame 883: 0
+weld path inclination at frame 884: 0
+weld path inclination at frame 885: 0
+weld path inclination at frame 886: 0
+weld path inclination at frame 887: 0
+weld path inclination at frame 888: 0
+weld path inclination at frame 889: 0
+weld path inclination at frame 890: 0
+weld path inclination at frame 891: 0
+weld path inclination at frame 892: 0
+weld path inclination at frame 893: 0
+weld path inclination at frame 894: 0
+weld path inclination at frame 895: 0
+weld path inclination at frame 896: 0
+weld path inclination at frame 897: 0
+weld path inclination at frame 898: 0
+weld path inclination at frame 899: 0
+weld path inclination at frame 900: 0
+weld path inclination at frame 901: 0
+weld path inclination at frame 902: 0
+weld path inclination at frame 903: 0
+weld path inclination at frame 904: 0
+weld path inclination at frame 905: 0
+weld path inclination at frame 906: 0
+weld path inclination at frame 907: 0
+weld path inclination at frame 908: 0
+weld path inclination at frame 909: 0
+weld path inclination at frame 910: 0
+weld path inclination at frame 911: 0
+weld path inclination at frame 912: 0
+weld path inclination at frame 913: 0
+weld path inclination at frame 914: 0
+weld path inclination at frame 915: 0
+weld path inclination at frame 916: 0
+weld path inclination at frame 917: 0
+weld path inclination at frame 918: 0
+weld path inclination at frame 919: 0
+weld path inclination at frame 920: 0
+weld path inclination at frame 921: 0
+weld path inclination at frame 922: 0
+weld path inclination at frame 923: 0
+weld path inclination at frame 924: 0
+weld path inclination at frame 925: 0
+weld path inclination at frame 926: 0
+weld path inclination at frame 927: 0
+weld path inclination at frame 928: 0
+weld path inclination at frame 929: 0
+weld path inclination at frame 930: 0
+weld path inclination at frame 931: 0
+weld path inclination at frame 932: 0
+weld path inclination at frame 933: 0
+weld path inclination at frame 934: 0
+weld path inclination at frame 935: 0
+weld path inclination at frame 936: 0
+weld path inclination at frame 937: 0
+weld path inclination at frame 938: 0
+weld path inclination at frame 939: 0
+weld path inclination at frame 940: 0
+weld path inclination at frame 941: 0
+weld path inclination at frame 942: 0
+weld path inclination at frame 943: 0
+weld path inclination at frame 944: 0
+weld path inclination at frame 945: 0
+weld path inclination at frame 946: 0
+weld path inclination at frame 947: 0
+weld path inclination at frame 948: 0
+weld path inclination at frame 949: 0
+weld path inclination at frame 950: 0
+weld path inclination at frame 951: 0
+weld path inclination at frame 952: 0
+weld path inclination at frame 953: 0
+weld path inclination at frame 954: 0
+weld path inclination at frame 955: 0
+weld path inclination at frame 956: 0
+weld path inclination at frame 957: 0
+weld path inclination at frame 958: 0
+weld path inclination at frame 959: 0
+weld path inclination at frame 960: 0
+weld path inclination at frame 961: 0
+weld path inclination at frame 962: 0
+weld path inclination at frame 963: 0
+weld path inclination at frame 964: 0
+weld path inclination at frame 965: 0
+weld path inclination at frame 966: 0
+weld path inclination at frame 967: 0
+weld path inclination at frame 968: 0
+weld path inclination at frame 969: 0
+weld path inclination at frame 970: 0
+weld path inclination at frame 971: 0
+weld path inclination at frame 972: 0
+weld path inclination at frame 973: 0
+weld path inclination at frame 974: 0
+weld path inclination at frame 975: 0
+weld path inclination at frame 976: 0
+weld path inclination at frame 977: 0
+weld path inclination at frame 978: 0
+weld path inclination at frame 979: 0
+weld path inclination at frame 980: 0
+weld path inclination at frame 981: 0
+weld path inclination at frame 982: 0
+weld path inclination at frame 983: 0
+weld path inclination at frame 984: 0
+weld path inclination at frame 985: 0
+weld path inclination at frame 986: 0
+weld path inclination at frame 987: 0
+weld path inclination at frame 988: 0
+weld path inclination at frame 989: 0
+weld path inclination at frame 990: 0
+weld path inclination at frame 991: 0
+weld path inclination at frame 992: 0
+weld path inclination at frame 993: 0
+weld path inclination at frame 994: 0
+weld path inclination at frame 995: 0
+weld path inclination at frame 996: 0
+weld path inclination at frame 997: 0
+weld path inclination at frame 998: 0
+weld path inclination at frame 999: 0
+weld path inclination at frame 1000: 0
+weld path inclination at frame 1001: 0
+weld path inclination at frame 1002: 0
+weld path inclination at frame 1003: 0
+weld path inclination at frame 1004: 0
+weld path inclination at frame 1005: 0
+weld path inclination at frame 1006: 0
+weld path inclination at frame 1007: 0
+weld path inclination at frame 1008: 0
+weld path inclination at frame 1009: 0
+weld path inclination at frame 1010: 0
+weld path inclination at frame 1011: 0
+weld path inclination at frame 1012: 0
+weld path inclination at frame 1013: 0
+weld path inclination at frame 1014: 0
+weld path inclination at frame 1015: 0
+weld path inclination at frame 1016: 0
+weld path inclination at frame 1017: 0
+weld path inclination at frame 1018: 0
+weld path inclination at frame 1019: 0
+weld path inclination at frame 1020: 0
+weld path inclination at frame 1021: 0
+weld path inclination at frame 1022: 0
+weld path inclination at frame 1023: 0
+weld path inclination at frame 1024: 0
+weld path inclination at frame 1025: 0
+weld path inclination at frame 1026: 0
+weld path inclination at frame 1027: 0
+weld path inclination at frame 1028: 0
+weld path inclination at frame 1029: 0
+weld path inclination at frame 1030: 0
+weld path inclination at frame 1031: 0
+weld path inclination at frame 1032: 0
+weld path inclination at frame 1033: 0
+weld path inclination at frame 1034: 0
+weld path inclination at frame 1035: 0
+weld path inclination at frame 1036: 0
+weld path inclination at frame 1037: 0
+weld path inclination at frame 1038: 0
+weld path inclination at frame 1039: 0
+weld path inclination at frame 1040: 0
+weld path inclination at frame 1041: 0
+weld path inclination at frame 1042: 0
+weld path inclination at frame 1043: 0
+weld path inclination at frame 1044: 0
+weld path inclination at frame 1045: 0
+weld path inclination at frame 1046: 0
+weld path inclination at frame 1047: 0
+weld path inclination at frame 1048: 0
+weld path inclination at frame 1049: 0
+weld path inclination at frame 1050: 0
+weld path inclination at frame 1051: 0
+weld path inclination at frame 1052: 0
+weld path inclination at frame 1053: 0
+weld path inclination at frame 1054: 0
+weld path inclination at frame 1055: 0
+weld path inclination at frame 1056: 0
+weld path inclination at frame 1057: 0
+weld path inclination at frame 1058: 0
+weld path inclination at frame 1059: 0
+weld path inclination at frame 1060: 0
+weld path inclination at frame 1061: 0
+weld path inclination at frame 1062: 0
+weld path inclination at frame 1063: 0
+weld path inclination at frame 1064: 0
+weld path inclination at frame 1065: 0
+weld path inclination at frame 1066: 0
+weld path inclination at frame 1067: 0
+weld path inclination at frame 1068: 0
+weld path inclination at frame 1069: 0
+weld path inclination at frame 1070: 0
+weld path inclination at frame 1071: 0
+weld path inclination at frame 1072: 0
+weld path inclination at frame 1073: 0
+weld path inclination at frame 1074: 0
+weld path inclination at frame 1075: 0
+weld path inclination at frame 1076: 0
+weld path inclination at frame 1077: 0
+weld path inclination at frame 1078: 0
+weld path inclination at frame 1079: 0
+weld path inclination at frame 1080: 0
+weld path inclination at frame 1081: 0
+weld path inclination at frame 1082: 0
+weld path inclination at frame 1083: 0
+weld path inclination at frame 1084: 0
+weld path inclination at frame 1085: 0
+weld path inclination at frame 1086: 0
+weld path inclination at frame 1087: 0
+weld path inclination at frame 1088: 0
+weld path inclination at frame 1089: 0
+weld path inclination at frame 1090: 0
+weld path inclination at frame 1091: 0
+weld path inclination at frame 1092: 0
+weld path inclination at frame 1093: 0
+weld path inclination at frame 1094: 0
+weld path inclination at frame 1095: 0
+weld path inclination at frame 1096: 0
+weld path inclination at frame 1097: 0
+weld path inclination at frame 1098: 0
+weld path inclination at frame 1099: 0
+weld path inclination at frame 1100: 0
+weld path inclination at frame 1101: 0
+weld path inclination at frame 1102: 0
+weld path inclination at frame 1103: 0
+weld path inclination at frame 1104: 0
+weld path inclination at frame 1105: 0
+weld path inclination at frame 1106: 0
+weld path inclination at frame 1107: 0
+weld path inclination at frame 1108: 0
+weld path inclination at frame 1109: 0
+weld path inclination at frame 1110: 0
+weld path inclination at frame 1111: 0
+weld path inclination at frame 1112: 0
+weld path inclination at frame 1113: 0
+weld path inclination at frame 1114: 0
+weld path inclination at frame 1115: 0
+weld path inclination at frame 1116: 0
+weld path inclination at frame 1117: 0
+weld path inclination at frame 1118: 0
+weld path inclination at frame 1119: 0
+weld path inclination at frame 1120: 0
+weld path inclination at frame 1121: 0
+weld path inclination at frame 1122: 0
+weld path inclination at frame 1123: 0
+weld path inclination at frame 1124: 0
+weld path inclination at frame 1125: 0
+weld path inclination at frame 1126: 0
+weld path inclination at frame 1127: 0
+weld path inclination at frame 1128: 0
+weld path inclination at frame 1129: 0
+weld path inclination at frame 1130: 0
+weld path inclination at frame 1131: 0
+weld path inclination at frame 1132: 0
+weld path inclination at frame 1133: 0
+weld path inclination at frame 1134: 0
+weld path inclination at frame 1135: 0
+weld path inclination at frame 1136: 0
+weld path inclination at frame 1137: 0
+weld path inclination at frame 1138: 0
+weld path inclination at frame 1139: 0
+weld path inclination at frame 1140: 0
+weld path inclination at frame 1141: 0
+weld path inclination at frame 1142: 0
+weld path inclination at frame 1143: 0
+weld path inclination at frame 1144: 0
+weld path inclination at frame 1145: 0
+weld path inclination at frame 1146: 0
+weld path inclination at frame 1147: 0
+weld path inclination at frame 1148: 0
+weld path inclination at frame 1149: 0
+weld path inclination at frame 1150: 0
+weld path inclination at frame 1151: 0
+weld path inclination at frame 1152: 0
+weld path inclination at frame 1153: 0
+weld path inclination at frame 1154: 0
+weld path inclination at frame 1155: 0
+weld path inclination at frame 1156: 0
+weld path inclination at frame 1157: 0
+weld path inclination at frame 1158: 0
+weld path inclination at frame 1159: 0
+weld path inclination at frame 1160: 0
+weld path inclination at frame 1161: 0
+weld path inclination at frame 1162: 0
+weld path inclination at frame 1163: 0
+weld path inclination at frame 1164: 0
+weld path inclination at frame 1165: 0
+weld path inclination at frame 1166: 0
+weld path inclination at frame 1167: 0
+weld path inclination at frame 1168: 0
+weld path inclination at frame 1169: 0
+weld path inclination at frame 1170: 0
+weld path inclination at frame 1171: 0
+weld path inclination at frame 1172: 0
+weld path inclination at frame 1173: 0
+weld path inclination at frame 1174: 0
+weld path inclination at frame 1175: 0
+weld path inclination at frame 1176: 0
+weld path inclination at frame 1177: 0
+weld path inclination at frame 1178: 0
+weld path inclination at frame 1179: 0
+weld path inclination at frame 1180: 0
+weld path inclination at frame 1181: 0
+weld path inclination at frame 1182: 0
+weld path inclination at frame 1183: 0
+weld path inclination at frame 1184: 0
+weld path inclination at frame 1185: 0
+weld path inclination at frame 1186: 0
+weld path inclination at frame 1187: 0
+weld path inclination at frame 1188: 0
+weld path inclination at frame 1189: 0
+weld path inclination at frame 1190: 0
+weld path inclination at frame 1191: 0
+weld path inclination at frame 1192: 0
+weld path inclination at frame 1193: 0
+weld path inclination at frame 1194: 0
+weld path inclination at frame 1195: 0
+weld path inclination at frame 1196: 0
+weld path inclination at frame 1197: 0
+weld path inclination at frame 1198: 0
+weld path inclination at frame 1199: 0
+weld path inclination at frame 1200: 0
+weld path inclination at frame 1201: 0
+weld path inclination at frame 1202: 0
+weld path inclination at frame 1203: 0
+weld path inclination at frame 1204: 0
+weld path inclination at frame 1205: 0
+weld path inclination at frame 1206: 0
+weld path inclination at frame 1207: 0
+weld path inclination at frame 1208: 0
+weld path inclination at frame 1209: 0
+weld path inclination at frame 1210: 0
+weld path inclination at frame 1211: 0
+weld path inclination at frame 1212: 0
+weld path inclination at frame 1213: 0
+weld path inclination at frame 1214: 0
+weld path inclination at frame 1215: 0
+weld path inclination at frame 1216: 0
+weld path inclination at frame 1217: 0
+weld path inclination at frame 1218: 0
+weld path inclination at frame 1219: 0
+weld path inclination at frame 1220: 0
+weld path inclination at frame 1221: 0
+weld path inclination at frame 1222: 0
+weld path inclination at frame 1223: 0
+weld path inclination at frame 1224: 0
+weld path inclination at frame 1225: 0
+weld path inclination at frame 1226: 0
+weld path inclination at frame 1227: 0
+weld path inclination at frame 1228: 0
+weld path inclination at frame 1229: 0
+weld path inclination at frame 1230: 0
+weld path inclination at frame 1231: 0
+weld path inclination at frame 1232: 0
+weld path inclination at frame 1233: 0
+weld path inclination at frame 1234: 0
+weld path inclination at frame 1235: 0
+weld path inclination at frame 1236: 0
+weld path inclination at frame 1237: 0
+weld path inclination at frame 1238: 0
+weld path inclination at frame 1239: 0
+weld path inclination at frame 1240: 0
+weld path inclination at frame 1241: 0
+weld path inclination at frame 1242: 0
+weld path inclination at frame 1243: 0
+weld path inclination at frame 1244: 0
+weld path inclination at frame 1245: 0
+weld path inclination at frame 1246: 0
+weld path inclination at frame 1247: 0
+weld path inclination at frame 1248: 0
+weld path inclination at frame 1249: 0
+weld path inclination at frame 1250: 0
+weld path inclination at frame 1251: 0
+weld path inclination at frame 1252: 0
+weld path inclination at frame 1253: 0
+weld path inclination at frame 1254: 0
+weld path inclination at frame 1255: 0
+weld path inclination at frame 1256: 0
+weld path inclination at frame 1257: 0
+weld path inclination at frame 1258: 0
+weld path inclination at frame 1259: 0
+weld path inclination at frame 1260: 0
+weld path inclination at frame 1261: 0
+weld path inclination at frame 1262: 0
+weld path inclination at frame 1263: 0
+weld path inclination at frame 1264: 0
+weld path inclination at frame 1265: 0
+weld path inclination at frame 1266: 0
+weld path inclination at frame 1267: 0
+weld path inclination at frame 1268: 0
+weld path inclination at frame 1269: 0
+weld path inclination at frame 1270: 0
+weld path inclination at frame 1271: 0
+weld path inclination at frame 1272: 0
+weld path inclination at frame 1273: 0
+weld path inclination at frame 1274: 0
+weld path inclination at frame 1275: 0
+weld path inclination at frame 1276: 0
+weld path inclination at frame 1277: 0
+weld path inclination at frame 1278: 0
+weld path inclination at frame 1279: 0
+weld path inclination at frame 1280: 0
+weld path inclination at frame 1281: 0
+weld path inclination at frame 1282: 0
+weld path inclination at frame 1283: 0
+weld path inclination at frame 1284: 0
+weld path inclination at frame 1285: 0
+weld path inclination at frame 1286: 0
+weld path inclination at frame 1287: 0
+weld path inclination at frame 1288: 0
+weld path inclination at frame 1289: 0
+weld path inclination at frame 1290: 0
+weld path inclination at frame 1291: 0
+weld path inclination at frame 1292: 0
+weld path inclination at frame 1293: 0
+weld path inclination at frame 1294: 0
+weld path inclination at frame 1295: 0
+weld path inclination at frame 1296: 0
+weld path inclination at frame 1297: 0
+weld path inclination at frame 1298: 0
+weld path inclination at frame 1299: 0
+weld path inclination at frame 1300: 0
+weld path inclination at frame 1301: 0
+weld path inclination at frame 1302: 0
+weld path inclination at frame 1303: 0
+weld path inclination at frame 1304: 0
+weld path inclination at frame 1305: 0
+weld path inclination at frame 1306: 0
+weld path inclination at frame 1307: 0
+weld path inclination at frame 1308: 0
+weld path inclination at frame 1309: 0
+weld path inclination at frame 1310: 0
+weld path inclination at frame 1311: 0
+weld path inclination at frame 1312: 0
+weld path inclination at frame 1313: 0
+weld path inclination at frame 1314: 0
+weld path inclination at frame 1315: 0
+weld path inclination at frame 1316: 0
+weld path inclination at frame 1317: 0
+weld path inclination at frame 1318: 0
+weld path inclination at frame 1319: 0
+weld path inclination at frame 1320: 0
+weld path inclination at frame 1321: 0
+weld path inclination at frame 1322: 0
+weld path inclination at frame 1323: 0
+weld path inclination at frame 1324: 0
+weld path inclination at frame 1325: 0
+weld path inclination at frame 1326: 0
+weld path inclination at frame 1327: 0
+weld path inclination at frame 1328: 0
+weld path inclination at frame 1329: 0
+weld path inclination at frame 1330: 0
+weld path inclination at frame 1331: 0
+weld path inclination at frame 1332: 0
+weld path inclination at frame 1333: 0
+weld path inclination at frame 1334: 0
+weld path inclination at frame 1335: 0
+weld path inclination at frame 1336: 0
+weld path inclination at frame 1337: 0
+weld path inclination at frame 1338: 0
+weld path inclination at frame 1339: 0
+weld path inclination at frame 1340: 0
+weld path inclination at frame 1341: 0
+weld path inclination at frame 1342: 0
+weld path inclination at frame 1343: 0
+weld path inclination at frame 1344: 0
+weld path inclination at frame 1345: 0
+weld path inclination at frame 1346: 0
+weld path inclination at frame 1347: 0
+weld path inclination at frame 1348: 0
+weld path inclination at frame 1349: 0
+weld path inclination at frame 1350: 0
+weld path inclination at frame 1351: 0
+weld path inclination at frame 1352: 0
+weld path inclination at frame 1353: 0
+weld path inclination at frame 1354: 0
+weld path inclination at frame 1355: 0
+weld path inclination at frame 1356: 0
+weld path inclination at frame 1357: 0
+weld path inclination at frame 1358: 0
+weld path inclination at frame 1359: 0
+weld path inclination at frame 1360: 0
+weld path inclination at frame 1361: 0
+weld path inclination at frame 1362: 0
+weld path inclination at frame 1363: 0
+weld path inclination at frame 1364: 0
+weld path inclination at frame 1365: 0
+weld path inclination at frame 1366: 0
+weld path inclination at frame 1367: 0
+weld path inclination at frame 1368: 0
+weld path inclination at frame 1369: 0
+weld path inclination at frame 1370: 0
+weld path inclination at frame 1371: 0
+weld path inclination at frame 1372: 0
+weld path inclination at frame 1373: 0
+weld path inclination at frame 1374: 0
+weld path inclination at frame 1375: 0
+weld path inclination at frame 1376: 0
+weld path inclination at frame 1377: 0
+weld path inclination at frame 1378: 0
+weld path inclination at frame 1379: 0
+weld path inclination at frame 1380: 0
+weld path inclination at frame 1381: 0
+weld path inclination at frame 1382: 0
+weld path inclination at frame 1383: 0
+weld path inclination at frame 1384: 0
+weld path inclination at frame 1385: 0
+weld path inclination at frame 1386: 0
+weld path inclination at frame 1387: 0
+weld path inclination at frame 1388: 0
+weld path inclination at frame 1389: 0
+weld path inclination at frame 1390: 0
+weld path inclination at frame 1391: 0
+weld path inclination at frame 1392: 0
+weld path inclination at frame 1393: 0
+weld path inclination at frame 1394: 0
+weld path inclination at frame 1395: 0
+weld path inclination at frame 1396: 0
+weld path inclination at frame 1397: 0
+weld path inclination at frame 1398: 0
+weld path inclination at frame 1399: 0
+weld path inclination at frame 1400: 0
+weld path inclination at frame 1401: 0
+weld path inclination at frame 1402: 0
+weld path inclination at frame 1403: 0
+weld path inclination at frame 1404: 0
+weld path inclination at frame 1405: 0
+weld path inclination at frame 1406: 0
+weld path inclination at frame 1407: 0
+weld path inclination at frame 1408: 0
+weld path inclination at frame 1409: 0
+weld path inclination at frame 1410: 0
+weld path inclination at frame 1411: 0
+weld path inclination at frame 1412: 0
+weld path inclination at frame 1413: 0
+weld path inclination at frame 1414: 0
+weld path inclination at frame 1415: 0
+weld path inclination at frame 1416: 0
+weld path inclination at frame 1417: 0
+weld path inclination at frame 1418: 0
+weld path inclination at frame 1419: 0
+weld path inclination at frame 1420: 0
+weld path inclination at frame 1421: 0
+weld path inclination at frame 1422: 0
+weld path inclination at frame 1423: 0
+weld path inclination at frame 1424: 0
+weld path inclination at frame 1425: 0
+weld path inclination at frame 1426: 0
+weld path inclination at frame 1427: 0
+weld path inclination at frame 1428: 0
+weld path inclination at frame 1429: 0
+weld path inclination at frame 1430: 0
+weld path inclination at frame 1431: 0
+weld path inclination at frame 1432: 0
+weld path inclination at frame 1433: 0
+weld path inclination at frame 1434: 0
+weld path inclination at frame 1435: 0
+weld path inclination at frame 1436: 0
+weld path inclination at frame 1437: 0
+weld path inclination at frame 1438: 0
+weld path inclination at frame 1439: 0
+weld path inclination at frame 1440: 0
+weld path inclination at frame 1441: 0
+weld path inclination at frame 1442: 0
+weld path inclination at frame 1443: 0
+weld path inclination at frame 1444: 0
+weld path inclination at frame 1445: 0
+weld path inclination at frame 1446: 0
+weld path inclination at frame 1447: 0
+weld path inclination at frame 1448: 0
+weld path inclination at frame 1449: 0
+weld path inclination at frame 1450: 0
+weld path inclination at frame 1451: 0
+weld path inclination at frame 1452: 0
+weld path inclination at frame 1453: 0
+weld path inclination at frame 1454: 0
+weld path inclination at frame 1455: 0
+weld path inclination at frame 1456: 0
+weld path inclination at frame 1457: 0
+weld path inclination at frame 1458: 0
+weld path inclination at frame 1459: 0
+weld path inclination at frame 1460: 0
+weld path inclination at frame 1461: 0
+weld path inclination at frame 1462: 0
+weld path inclination at frame 1463: 0
+weld path inclination at frame 1464: 0
+weld path inclination at frame 1465: 0
+weld path inclination at frame 1466: 0
+weld path inclination at frame 1467: 0
+weld path inclination at frame 1468: 0
+weld path inclination at frame 1469: 0
+weld path inclination at frame 1470: 0
+weld path inclination at frame 1471: 0
+weld path inclination at frame 1472: 0
+weld path inclination at frame 1473: 0
+weld path inclination at frame 1474: 0
+weld path inclination at frame 1475: 0
+weld path inclination at frame 1476: 0
+weld path inclination at frame 1477: 0
+weld path inclination at frame 1478: 0
+weld path inclination at frame 1479: 0
+weld path inclination at frame 1480: 0
+weld path inclination at frame 1481: 0
+weld path inclination at frame 1482: 0
+weld path inclination at frame 1483: 0
+weld path inclination at frame 1484: 0
+weld path inclination at frame 1485: 0
+weld path inclination at frame 1486: 0
+weld path inclination at frame 1487: 0
+weld path inclination at frame 1488: 0
+weld path inclination at frame 1489: 0
+weld path inclination at frame 1490: 0
+weld path inclination at frame 1491: 0
+weld path inclination at frame 1492: 0
+weld path inclination at frame 1493: 0
+weld path inclination at frame 1494: 0
+weld path inclination at frame 1495: 0
+weld path inclination at frame 1496: 0
+weld path inclination at frame 1497: 0
+weld path inclination at frame 1498: 0
+weld path inclination at frame 1499: 0
+weld path inclination at frame 1500: 0
+weld path inclination at frame 1501: 0
+weld path inclination at frame 1502: 0
+weld path inclination at frame 1503: 0
+weld path inclination at frame 1504: 0
+weld path inclination at frame 1505: 0
+weld path inclination at frame 1506: 0
+weld path inclination at frame 1507: 0
+weld path inclination at frame 1508: 0
+weld path inclination at frame 1509: 0
+weld path inclination at frame 1510: 0
+weld path inclination at frame 1511: 0
+weld path inclination at frame 1512: 0
+weld path inclination at frame 1513: 0
+weld path inclination at frame 1514: 0
+weld path inclination at frame 1515: 0
+weld path inclination at frame 1516: 0
+weld path inclination at frame 1517: 0
+weld path inclination at frame 1518: 0
+weld path inclination at frame 1519: 0
+weld path inclination at frame 1520: 0
+weld path inclination at frame 1521: 0
+weld path inclination at frame 1522: 0
+weld path inclination at frame 1523: 0
+weld path inclination at frame 1524: 0
+weld path inclination at frame 1525: 0
+weld path inclination at frame 1526: 0
+weld path inclination at frame 1527: 0
+weld path inclination at frame 1528: 0
+weld path inclination at frame 1529: 0
+weld path inclination at frame 1530: 0
+weld path inclination at frame 1531: 0
+weld path inclination at frame 1532: 0
+weld path inclination at frame 1533: 0
+weld path inclination at frame 1534: 0
+weld path inclination at frame 1535: 0
+weld path inclination at frame 1536: 0
+weld path inclination at frame 1537: 0
+weld path inclination at frame 1538: 0
+weld path inclination at frame 1539: 0
+weld path inclination at frame 1540: 0
+weld path inclination at frame 1541: 0
+weld path inclination at frame 1542: 0
+weld path inclination at frame 1543: 0
+weld path inclination at frame 1544: 0
+weld path inclination at frame 1545: 0
+weld path inclination at frame 1546: 0
+weld path inclination at frame 1547: 0
+weld path inclination at frame 1548: 0
+weld path inclination at frame 1549: 0
+weld path inclination at frame 1550: 0
+weld path inclination at frame 1551: 0
+weld path inclination at frame 1552: 0
+weld path inclination at frame 1553: 0
+weld path inclination at frame 1554: 0
+weld path inclination at frame 1555: 0
+weld path inclination at frame 1556: 0
+weld path inclination at frame 1557: 0
+weld path inclination at frame 1558: 0
+weld path inclination at frame 1559: 0
+weld path inclination at frame 1560: 0
+weld path inclination at frame 1561: 0
+weld path inclination at frame 1562: 0
+weld path inclination at frame 1563: 0
+weld path inclination at frame 1564: 0
+weld path inclination at frame 1565: 0
+weld path inclination at frame 1566: 0
+weld path inclination at frame 1567: 0
+weld path inclination at frame 1568: 0
+weld path inclination at frame 1569: 0
+weld path inclination at frame 1570: 0
+weld path inclination at frame 1571: 0
+weld path inclination at frame 1572: 0
+weld path inclination at frame 1573: 0
+weld path inclination at frame 1574: 0
+weld path inclination at frame 1575: 0
+weld path inclination at frame 1576: 0
+weld path inclination at frame 1577: 0
+weld path inclination at frame 1578: 0
+weld path inclination at frame 1579: 0
+weld path inclination at frame 1580: 0
+weld path inclination at frame 1581: 0
+weld path inclination at frame 1582: 0
+weld path inclination at frame 1583: 0
+weld path inclination at frame 1584: 0
+weld path inclination at frame 1585: 0
+weld path inclination at frame 1586: 0
+weld path inclination at frame 1587: 0
+weld path inclination at frame 1588: 0
+weld path inclination at frame 1589: 0
+weld path inclination at frame 1590: 0
+weld path inclination at frame 1591: 0
+weld path inclination at frame 1592: 0
+weld path inclination at frame 1593: 0
+weld path inclination at frame 1594: 0
+weld path inclination at frame 1595: 0
+weld path inclination at frame 1596: 0
+weld path inclination at frame 1597: 0
+weld path inclination at frame 1598: 0
+weld path inclination at frame 1599: 0
+weld path inclination at frame 1600: 0
+weld path inclination at frame 1601: 0
+weld path inclination at frame 1602: 0
+weld path inclination at frame 1603: 0
+weld path inclination at frame 1604: 0
+weld path inclination at frame 1605: 0
+weld path inclination at frame 1606: 0
+weld path inclination at frame 1607: 0
+weld path inclination at frame 1608: 0
+weld path inclination at frame 1609: 0
+weld path inclination at frame 1610: 0
+weld path inclination at frame 1611: 0
+weld path inclination at frame 1612: 0
+weld path inclination at frame 1613: 0
+weld path inclination at frame 1614: 0
+weld path inclination at frame 1615: 0
+weld path inclination at frame 1616: 0
+weld path inclination at frame 1617: 0
+weld path inclination at frame 1618: 0
+weld path inclination at frame 1619: 0
+weld path inclination at frame 1620: 0
+weld path inclination at frame 1621: 0
+weld path inclination at frame 1622: 0
+weld path inclination at frame 1623: 0
+weld path inclination at frame 1624: 0
+weld path inclination at frame 1625: 0
+weld path inclination at frame 1626: 0
+weld path inclination at frame 1627: 0
+weld path inclination at frame 1628: 0
+weld path inclination at frame 1629: 0
+weld path inclination at frame 1630: 0
+weld path inclination at frame 1631: 0
+weld path inclination at frame 1632: 0
+weld path inclination at frame 1633: 0
+weld path inclination at frame 1634: 0
+weld path inclination at frame 1635: 0
+weld path inclination at frame 1636: 0
+weld path inclination at frame 1637: 0
+weld path inclination at frame 1638: 0
+weld path inclination at frame 1639: 0
+weld path inclination at frame 1640: 0
+weld path inclination at frame 1641: 0
+weld path inclination at frame 1642: 0
+weld path inclination at frame 1643: 0
+weld path inclination at frame 1644: 0
+weld path inclination at frame 1645: 0
+weld path inclination at frame 1646: 0
+weld path inclination at frame 1647: 0
+weld path inclination at frame 1648: 0
+weld path inclination at frame 1649: 0
+weld path inclination at frame 1650: 0
+weld path inclination at frame 1651: 0
+weld path inclination at frame 1652: 0
+weld path inclination at frame 1653: 0
+weld path inclination at frame 1654: 0
+weld path inclination at frame 1655: 0
+weld path inclination at frame 1656: 0
+weld path inclination at frame 1657: 0
+weld path inclination at frame 1658: 0
+weld path inclination at frame 1659: 0
+weld path inclination at frame 1660: 0
+weld path inclination at frame 1661: 0
+weld path inclination at frame 1662: 0
+weld path inclination at frame 1663: 0
+weld path inclination at frame 1664: 0
+weld path inclination at frame 1665: 0
+weld path inclination at frame 1666: 0
+weld path inclination at frame 1667: 0
+weld path inclination at frame 1668: 0
+weld path inclination at frame 1669: 0
+weld path inclination at frame 1670: 0
+weld path inclination at frame 1671: 0
+weld path inclination at frame 1672: 0
+weld path inclination at frame 1673: 0
+weld path inclination at frame 1674: 0
+weld path inclination at frame 1675: 0
+weld path inclination at frame 1676: 0
+weld path inclination at frame 1677: 0
+weld path inclination at frame 1678: 0
+weld path inclination at frame 1679: 0
+weld path inclination at frame 1680: 0
+weld path inclination at frame 1681: 0
+weld path inclination at frame 1682: 0
+weld path inclination at frame 1683: 0
+weld path inclination at frame 1684: 0
+weld path inclination at frame 1685: 0
+weld path inclination at frame 1686: 0
+weld path inclination at frame 1687: 0
+weld path inclination at frame 1688: 0
+weld path inclination at frame 1689: 0
+weld path inclination at frame 1690: 0
+weld path inclination at frame 1691: 0
+weld path inclination at frame 1692: 0
+weld path inclination at frame 1693: 0
+weld path inclination at frame 1694: 0
+weld path inclination at frame 1695: 0
+weld path inclination at frame 1696: 0
+weld path inclination at frame 1697: 0
+weld path inclination at frame 1698: 0
+weld path inclination at frame 1699: 0
+weld path inclination at frame 1700: 0
+weld path inclination at frame 1701: 0
+weld path inclination at frame 1702: 0
+weld path inclination at frame 1703: 0
+weld path inclination at frame 1704: 0
+weld path inclination at frame 1705: 0
+weld path inclination at frame 1706: 0
+weld path inclination at frame 1707: 0
+weld path inclination at frame 1708: 0
+weld path inclination at frame 1709: 0
+weld path inclination at frame 1710: 0
+weld path inclination at frame 1711: 0
+weld path inclination at frame 1712: 0
